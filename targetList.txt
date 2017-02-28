@@ -6,3 +6,5 @@ notebooks
 colorful pens
 toothbrushes
 toilet paper
+chap stick
+
